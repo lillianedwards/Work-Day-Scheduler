@@ -1,0 +1,12 @@
+1. change  css classes based on time from 9 - 17 (military time) with if statement - how to create variable for time divs? ind?
+
+2. do i setitem each item variable (hour 9) or do a single one and set all the values in an object 
+
+
+2. pieces dayjs. - time display
+3. getting colors to change 
+4. fetching local storage 
+- javascript object that's in a dimentions through setitem and getitem 
+
+
+hours object with 
